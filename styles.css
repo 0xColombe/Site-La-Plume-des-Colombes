@@ -11,9 +11,9 @@
 body {
 	background-color :  DeepSkyBlue;
 	background-position : center;
-	font-family : courier new ;
-   text-align: justify;
-   font-size: 100%;
+	font-family : Georgia, 'Times New Roman', Times, serif ;
+  text-align: justify;
+  font-size: 100%;
 }
 
 header {
@@ -99,8 +99,8 @@ em {
 .liste {
 	display : block;
   padding:0px;
-  font-family : Georgia, 'Times New Roman', Times, serif ;
-  font-size: 115%;
+  font-family : georgia;
+  font-size: 100%;
 }
 
 .insta {
