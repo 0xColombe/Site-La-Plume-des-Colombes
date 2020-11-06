@@ -1,2 +1,3 @@
 User-Agent: *    
-Disallow: /documents_association/
+Disallow: /documents_association/*
+Disallow : /documents_association/
